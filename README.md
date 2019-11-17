@@ -1,2 +1,3 @@
 # Supermarket
-It's a java program for supermarket project.
+It's my java project for my 3rd semester internals.
+
